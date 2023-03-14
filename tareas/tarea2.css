@@ -1,0 +1,21 @@
+#titulo {
+  text-shadow: 10px 10px purple;
+}
+#linea1 {
+  background-color: yellow;
+}
+#linea2 {
+  color: green;
+}
+.linea3y4 {
+  background-color: black;
+  color: white;
+}
+.linea5y6 {
+  color: blue;
+  text-transform: uppercase;
+}
+#linea7 {
+  text-shadow: 10px 10px palevioletred;
+  font-size: 50px;
+}
