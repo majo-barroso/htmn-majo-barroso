@@ -1,0 +1,27 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>
+      tarea 3
+    </title>
+  </head>
+  <body>
+    <h2>pablo<h2>
+<img src="imagenes/pato.jpg" id="pablo"/>
+<p>pablo es un pato con un pasado oscuro y busca venganza...</p>
+    
+<h3>victor<h3>
+  <img src="imagenes/oso.jpg" id="victor"/>
+  <p>victor es amigo de pablo</p>
+
+  <h4>monica<h4>
+    <img src="imagenes/salamandra.webp" id="monica"/>
+    <p>monica es enemiga de pablo</p>
+
+  <body>
+  </html>
+
+ 
